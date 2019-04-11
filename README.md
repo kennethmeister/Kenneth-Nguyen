@@ -1,6 +1,6 @@
 ## Kenneth Nguyen
 
-Professional dedicated to development and productivity. Capable decision maker who works well alone or in a group setting in fast paced environments. Ample experience providing elite customer service; academic coursework reflecting dedication, understanding of interpersonal skills, and a strong grasp of IT fundamentals.
+<p>Professional dedicated to development and productivity. Capable decision maker who works well alone or in a group setting in fast paced environments. Ample experience providing elite customer service; academic coursework reflecting dedication, understanding of interpersonal skills, and a strong grasp of IT fundamentals.<p>
 
 ### Kenneth Nguyen
 
