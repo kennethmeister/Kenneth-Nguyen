@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Kenneth Nguyen
 
-You can use the [editor on GitHub](https://github.com/kennethmeister/website1/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Professional dedicated to development and productivity. Capable decision maker who works well alone or in a group setting in fast paced environments. Ample experience providing elite customer service; academic coursework reflecting dedication, understanding of interpersonal skills, and a strong grasp of IT fundamentals.
 
 ### Kenneth Nguyen
 
