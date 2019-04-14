@@ -9,17 +9,17 @@ Professional dedicated to development and productivity. Capable decision maker w
 
 ### Education
 
-Florida International University,  Miami, FL
+#### Florida International University,  Miami, FL
 August 2018 - May 2020
 Bachelor’s Degree in Computer Information Systems
 
-Miami Dade College, Miami FL
+#### Miami Dade College, Miami FL
 January 2015 - December 2017
 Associate’s Degree in Computer Information Systems
 
 ### Experience
 
-Kumon of Coral Gable, Miami, FL - Teaching Assistant/Data Entry Clerk
+#### Kumon of Coral Gable, Miami, FL - Teaching Assistant/Data Entry Clerk
 January 2016 - September 2018
 - Utilize CMS software to enter client progress daily. Requires utmost attention to detail.
 - Oversee preparation of client records. Analyze and identify problems regarding data.
