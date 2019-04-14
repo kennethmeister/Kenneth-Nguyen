@@ -7,12 +7,28 @@ E: justin.nguyen30@gmail.com
 
 Professional dedicated to development and productivity. Capable decision maker who works well alone or in a group setting in fast paced environments. Ample experience providing elite customer service; academic coursework reflecting dedication, understanding of interpersonal skills, and a strong grasp of IT fundamentals.
 
-### Kenneth Nguyen
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Florida International University,  Miami, FL
+August 2018 - May 2020
+Bachelor’s Degree in Computer Information Systems
 
-```markdown
-Syntax highlighted code block
+Miami Dade College, Miami FL
+January 2015 - December 2017
+Associate’s Degree in Computer Information Systems
+
+### Experience
+
+Kumon of Coral Gable, Miami, FL - Teaching Assistant/Data Entry Clerk
+January 2016 - September 2018
+- Utilize CMS software to enter client progress daily. Requires utmost attention to detail.
+- Oversee preparation of client records. Analyze and identify problems regarding data.
+- Maximize workplace efficiency via organizational skills.
+- Assisting students with math/reading comprehension
+- Guiding students to complete assignments according to the Kumon Method
+- Light administrative duties
+
+
 
 # Header 1
 ## Header 2
